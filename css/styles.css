@@ -197,4 +197,85 @@ footer {
     grid-template-columns: 1fr;
   }
 }
-/* Fin de styles.css */
+
+
+/* estilos de fichero politica de privacidad */
+/* estilos de fichero terminos y condiciones */
+
+/* ---- Páginas legales: política y términos ---- */
+
+main section {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+/* Títulos principales y secundarios ya usan h1, h2, h3,
+   reforzamos márgenes para textos largos */
+main h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+main h2 {
+  font-size: 1.3rem;
+  margin-top: 1.8rem;
+  margin-bottom: 0.7rem;
+  border-left: 4px solid #66a3ff;
+  padding-left: 0.5rem;
+}
+
+main p {
+  margin-bottom: 0.8rem;
+}
+
+main ul {
+  margin-left: 1.2rem;
+  margin-bottom: 1rem;
+  list-style: disc;
+}
+
+main ul li {
+  margin-bottom: 0.3rem;
+}
+
+/* Bloque de fecha de última actualización */
+main p strong {
+  color: #003366;
+}
+
+/* Enlaces dentro del texto legal */
+main a {
+  color: #00509e;
+  text-decoration: underline;
+}
+
+main a:hover {
+  color: #003366;
+}
+
+/* En pantallas pequeñas, mejorar lectura */
+@media (max-width: 768px) {
+  main section {
+    padding: 0 0.2rem;
+  }
+
+  main h1 {
+    font-size: 1.6rem;
+  }
+
+  main h2 {
+    font-size: 1.2rem;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Fin de styles.css del proyecto ReparaTech */
