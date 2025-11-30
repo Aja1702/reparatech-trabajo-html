@@ -32,21 +32,36 @@ Sitio web responsive para **ReparaTech**, una empresa ficticia especializada en 
 ## 📁 Estructura del Proyecto
 
 reparatech-trabajo-html/  
-│  
+│
+
   ├── index.html # Página principal (3 secciones)
+  
   ├── productos.html # Galería de servicios
+  
   ├── presupuesto.html # Formulario de presupuestos
+  
   ├── contacto.html # Datos de contacto + mapa
+  
   │
+  
   ├── css/
+  
   │ └── estilos.css # Estilos CSS3 personalizados
+  
   │
+  
   ├── img/
+  
   │ ├── logo.png # Logotipo de la empresa
+  
   │ ├── reparacion-*.jpg # Imágenes de servicios
+  
   │ └── mapa.png # Mapa de ubicación
+  
   │
+  
   └── README.md # Este archivo
+  
 
 ---
 
