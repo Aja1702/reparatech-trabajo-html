@@ -67,7 +67,7 @@ reparatech-trabajo-html/
 
 ## 🎨 Características Técnicas
 
-- **HTML5 semántico** con etiquetas correctas (`header`, `nav`, `main`, `section`, `footer`, `article`)
+- **HTML5 semántico** con etiquetas correctas (`header`, `nav`, `main`, `section`, `footer`)
 - **CSS3 moderno** con Flexbox, Grid, sombras, transiciones y diseño responsive
 - **Paleta de colores tecnológica**: Azul oscuro (#003366), azul brillante (#66a3ff), grises profesionales
 - **Formulario validado** con `required`, `pattern` para teléfono y validación nativa HTML5
