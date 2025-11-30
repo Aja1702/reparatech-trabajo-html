@@ -52,11 +52,11 @@ reparatech-trabajo-html/
   
   ├── img/
   
-  │ ├── logo.png # Logotipo de la empresa
+  │ ├── logo.png ; logo.ico  # Logotipo de la empresa e icono de la web
   
-  │ ├── reparacion-*.jpg # Imágenes de servicios
+  │ ├── reparacion-*.jpg # Varias imágenes de servicios
   
-  │ └── mapa.png # Mapa de ubicación
+  │ └── mapa.png # Mapa de ubicación 
   
   │
   
@@ -115,9 +115,9 @@ Reparación Ordenadores | Mantenimiento | Recuperación Datos | Actualización C
 
 ## 👨‍💻 Autor
 
-**Nombre:** [TU NOMBRE COMPLETO]  
+**Nombre:** [ARTURO JIMÉNEZ APARICIO]  
 **Curso:** HTML/CSS - Trabajo Final Obligatorio  
-**Fecha:** Noviembre 2025
+**Fecha:** 30 Noviembre 2025
 
 ---
 
