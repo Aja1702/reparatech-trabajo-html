@@ -8,11 +8,11 @@
 
 ### Repositorio GitHub
 **URL del repositorio público:**  
-`https://github.com/Aja1702/reparatech-trabajo-html`
+[https://github.com/Aja1702/reparatech-trabajo-html] (https://github.com/Aja1702/reparatech-trabajo-html)
 
 ### Hosting GitHub Pages
 **URL del sitio web en producción:**  
-`https://Aja1702.github.io/reparatech-trabajo-html`
+[https://Aja1702.github.io/reparatech-trabajo-html] (https://Aja1702.github.io/reparatech-trabajo-html)
 
 ---
 
@@ -62,7 +62,6 @@ reparatech-trabajo-html/
   
   └── README.md # Este archivo
   
-
 ---
 
 ## 🎨 Características Técnicas
@@ -81,7 +80,7 @@ reparatech-trabajo-html/
 
 | Tecnología | Descripción |
 |------------|-------------|
-| **HTML5** | Estructura semántica y formulario validado [file:11] |
+| **HTML5** | Estructura semántica y formulario validado |
 | **CSS3** | Diseño responsive con Grid, Flexbox y animaciones |
 | **GitHub** | Control de versiones y hosting Pages |
 
