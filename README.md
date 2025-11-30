@@ -7,12 +7,12 @@
 ## 📋 Información Requerida para la Corrección
 
 ### Repositorio GitHub
-**URL del repositorio público:**  
-[https://github.com/Aja1702/reparatech-trabajo-html] (https://github.com/Aja1702/reparatech-trabajo-html)
+**URL del repositorio público:** :
+[https://github.com/Aja1702/reparatech-trabajo-html](https://github.com/Aja1702/reparatech-trabajo-html)
 
 ### Hosting GitHub Pages
-**URL del sitio web en producción:**  
-[https://Aja1702.github.io/reparatech-trabajo-html] (https://Aja1702.github.io/reparatech-trabajo-html)
+**URL del sitio web en producción:** : 
+[https://Aja1702.github.io/reparatech-trabajo-html](https://Aja1702.github.io/reparatech-trabajo-html)
 
 ---
 
