@@ -109,6 +109,11 @@ ul {
   margin-bottom: 1rem;
 }
 
+.galeria-productos h2 {
+  position: absolute;
+  left: -9999px; /* Oculto visualmente pero accesible */
+}
+
 .galeria-productos h3 {
   color: #00509e;
   font-weight: 700;
